@@ -1,16 +1,20 @@
 - - -
 # Michael Yachanin
+### 4 Wintergreen Lane - West Simsbury CT, 06092 
 ### mry1294@rit.edu
 - - -
 
 ## Education
-* Rochester Institute of Technology
-* B.S in Computer Science - May 2016
+* ###Rochester Institute of Technology
+    * B.S in Computer Science - May 2016
 
 ## Experience
-* ###Oracle 
+* ###Oracle
     * Co-op Application Engineer (January 2015 - Present)
-    * Worked on a cross-team feature 
+    * Full stack developer
+    * Engineered new features for existing pages
+    * Fixing bugs in various features of the application
+    * Up next: Implementing a new page
 
 * ###Aetna
     * College Intern, Informatics QA (May 2014 - August 2014)
@@ -29,7 +33,7 @@
     * Gained familiarity with JavaScript, HTML, CSS, and JavaScript utilities: jQuery, lodash, RequireJS, Handlebars
 
 * ###AES (github.com/mryachanin/AES-Codes-Ciphers)
-    * Implemented a vanilla version of AES
+    * Researched the mathematics behind AES
     * Coded functions to show the mathematical derivation of the forward S-box
 
 * ###Server
