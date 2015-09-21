@@ -13,6 +13,6 @@
   "author": "Michael Yachanin",
   "devDependencies": {
     "grunt": "~0.4.1",
-    "grunt-markdown-pdf": ">=2.1.1"
+    "grunt-markdown-pdf": "^2.1.1"
   }
 }
