@@ -54,3 +54,8 @@ header h2 {
     margin: 0 0 .5em;
     list-style-type: none;
 }
+
+@page {
+    size: 8.27in 11.69in;
+    margin: .25in .5in .25in .5in;
+}
