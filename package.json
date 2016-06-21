@@ -1,0 +1,24 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "The resume of Michael Robert Yachanin.",
+  "main": "resume.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mryachanin/resume.git"
+  },
+  "author": "Mike Yachanin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mryachanin/resume/issues"
+  },
+  "homepage": "https://github.com/mryachanin/resume#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inline-css": "^3.1.0",
+    "gulp-rename": "^1.2.2"
+  }
+}
