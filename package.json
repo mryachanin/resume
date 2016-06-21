@@ -18,6 +18,7 @@
   "homepage": "https://github.com/mryachanin/resume#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-htmlmin": "^2.0.0",
     "gulp-inline-css": "^3.1.0",
     "gulp-rename": "^1.2.2"
   }
