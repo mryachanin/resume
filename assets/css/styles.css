@@ -56,6 +56,11 @@ header h2 {
     list-style-type: none;
 }
 
+.category ul.square-ul {
+    margin: 0 0 .5em;
+    list-style-type: square !important;
+}
+
 a {
     color: black;
 }
