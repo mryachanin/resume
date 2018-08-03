@@ -65,8 +65,18 @@ a {
     margin: .25in .5in .25in .5in;
 }
 
-.print-only {
+.no-print {
     display: none;
+}
+
+.print-only, #Menu, #Footer {
+    display: none;
+}
+
+@media screen {
+    .no-print {
+        display: initial;
+    }
 }
 
 @media print {
@@ -78,3 +88,4 @@ a {
         display: initial;
     }
 }
+
